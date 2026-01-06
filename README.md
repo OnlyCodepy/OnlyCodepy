@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+&nbsp;***About me***
 
 I'm a mid-degree architecture student. I'm expanding my knowledge in front-end and back-end development. I love learning and creating something new, productive, innovative, and creative.
 - 🌱 I'm currently learning...
